@@ -1,0 +1,45 @@
+.red-cube{
+	width: 16em;
+	height: 16em;
+	background-color: #FF0000;
+	position:relative;
+}
+.purple-cube{
+	width: 8em;
+	height: 8em;
+	background-color: #8E0080;
+	position: absolute;
+	top: 4em;
+	left: 4em;
+}
+
+.yellow-cube{
+	width: 4em;
+	height: 4em;
+	background-color: #F1FF00;
+	position: absolute;
+	
+}
+
+.blue-cube{
+	margin-top: 5em;
+	width: 16em;
+	height: 16em;
+	background-color: #6100FF;
+	position:relative;
+}
+
+.green-cube{
+	width: 8em;
+	height: 8em;
+	background-color: #008D00;
+	position: absolute;
+	top: 4em;
+	left: 4em;
+}
+
+.black-cube{
+	width: 4em;
+	height: 4em;
+	background-color: #000;
+}
